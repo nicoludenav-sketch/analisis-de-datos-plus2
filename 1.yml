@@ -1,2 +1,0 @@
-- name: OpenAI ChatGPT Action
-  uses: cahaseler/openai-api@v1.0.0
